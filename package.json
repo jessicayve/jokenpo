@@ -1,0 +1,23 @@
+{
+  "name": "jokenpo",
+  "version": "1.0.0",
+  "description": "Jokenpo Game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessicayve/jokenpo.git"
+  },
+  "keywords": [
+    "node",
+    "jokenpo"
+  ],
+  "author": "Jessica Yve",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessicayve/jokenpo/issues"
+  },
+  "homepage": "https://github.com/jessicayve/jokenpo#readme"
+}
